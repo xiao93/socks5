@@ -31,3 +31,5 @@ python2
 OK，已经成功了！
 
 所有工具打包链接：socks5工具
+
+http://rhost.cc/2018/12/28/%E5%85%AC%E7%BD%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BAsocks5%E4%BB%A3%E7%90%86/
